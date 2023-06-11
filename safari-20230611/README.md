@@ -9,4 +9,12 @@ Expedition Team:
 2. Professor of Zoology, Doctor Indi ?? OBE
 3. Expidition Stenographer, David Redstotle KBE
 
+![A profile of a Lion from the Woburn Safari Park website](https://github.com/llewelld/safari-reports/blob/main/safari-20230611/images/lion-profile.jpg)
+
+## Arrival
+
+## Animals encountered
+
+## Conclusion
+
 
